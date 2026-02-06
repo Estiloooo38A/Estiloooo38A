@@ -3,8 +3,22 @@
 
 ---
 
-### 👨‍💻 About Me
-A person with big interest in tech & cars
+## 👨‍💻 About Me
+
+```lua
+local about_me = {
+  name = "Estiloooo",
+  interests = {
+    "Web Development","Linux","Thinkpads","System Security","Data Management"
+  },
+  education = {
+    level = "Vocational High School",
+    major = "Software Engineering"
+  },
+}
+
+return about_me
+
 
 ---
 
