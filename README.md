@@ -20,6 +20,7 @@ local about_me = {
 return about_me
 
 
+```
 ---
 
 ## 💻 Tech Stack
