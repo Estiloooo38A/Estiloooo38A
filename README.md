@@ -9,7 +9,7 @@
 local about_me = {
   name = "Estiloooo",
   interests = {
-    "Web Development","Linux","Thinkpads","System Security","Data Management"
+    "Web Development","System Security","Data Management","Hardware Troubleshooting","Linux"
   },
   education = {
     level = "Vocational High School",
