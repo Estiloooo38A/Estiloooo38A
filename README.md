@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Estiloooo</h1>
-<h3 align="center">Freelance Web Developer</h3>
+<h3 align="center">Im a Junior Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-I am a beginner freelance web developer focused on building clean, responsive, and functional websites.  
-I enjoy turning ideas into real projects and continuously improving my skills through hands-on practice.
+A person with big interest in tech & cars
 
 ---
 
-### 🛠️ Skills & Tools
-- HTML, CSS, JavaScript  
-- Responsive Web Design  
-- Basic React  
-- Tailwind CSS  
-- Git & GitHub  
+## 💻 Tech Stack
 
----
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-### 📂 What I Do
-- Landing Pages  
-- Personal / Portfolio Websites  
-- Company Profile Websites  
-- Website UI Imp
+
+
